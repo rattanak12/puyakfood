@@ -87,7 +87,7 @@ body {
 }
 
 .box-img {
-  width: 69%;
+  width: 75%;
 }
 
 a,
@@ -383,7 +383,7 @@ a:focus {
 }
 
 .slider_section .slider_container .img-box img {
-  width: 63%;
+  width: 100%;
   border: 10px solid #1a1a19;
   border-radius: 100%;
 }
